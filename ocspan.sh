@@ -25,10 +25,10 @@ fi
 vps="vps";
 
 if [[ $vps = "vps" ]]; then
-	source="https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master"
+	source="https://github.com/nel003/project.html/raw/master"
 else
-	source="https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master"
-fi
+	source="https://github.com/nel003/project.html/raw/master"
+
 
 # go to root
 cd
