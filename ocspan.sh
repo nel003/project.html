@@ -432,7 +432,7 @@ echo "======================================================="  | tee -a log-ins
 echo "=======================================================" | tee -a log-install.txt
 echo "Please login Reseller Panel at http://$MYIP:85" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
-echo "Auto Script Installer OCS Panels Mod by Clrkz"  | tee -a log-install.txt
+echo "Auto Script Installer OCS Panels Mod by Nel003"  | tee -a log-install.txt
 echo "             (https://phcorner.net/ - fb.com/Nel.lopena)           "  | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "Thanks " | tee -a log-install.txt
