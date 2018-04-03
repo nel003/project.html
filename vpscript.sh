@@ -17,9 +17,9 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 country=ID
 state=Manila
 locality=Manila
-organization=ByteHAX
+organization=Nel003
 organizationalunit=IT
-commonname=bytehax.blogspot.com
+commonname=phcorner.net
 email=alopena55555@gmail.com
 
 # go to root
@@ -191,7 +191,7 @@ wget -O member "https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/use
 wget -O restart "https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/resvis.sh"
 wget -O speedtest "https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/speedtest_cli.py"
 wget -O info "https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/info.sh"
-wget -O about "https://raw.githubusercontent.com/Clrkz/VPSAutoScrptz/master/about.sh"
+wget -O about "https://raw.githubusercontent.com/nel003/project.html/master/about.txt"
 
 echo "0 0 * * * root /sbin/reboot" > /etc/cron.d/reboot
 
