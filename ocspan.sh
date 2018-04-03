@@ -62,10 +62,10 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 country=ID
 state=Manila
 locality=Manila
-organization=ByteHAX
+organization=Nel003
 organizationalunit=IT
 commonname=bytehax.blogspot.com
-email=143Clarkz@gmail.com
+email=alopena55555@gmail.com
 
 # go to root
 cd
@@ -326,9 +326,9 @@ service nginx restart
 
 apt-get -y install zip unzip
 cd /home/vps/public_html
-wget $source/OCS.zip
-unzip OCS.zip
-rm -f OCS.zip
+wget $source/Ocs.zip
+unzip Ocs.zip
+rm -f Ocs.zip
 chown -R www-data:www-data /home/vps/public_html
 chmod -R g+rw /home/vps/public_html
 
